@@ -2,7 +2,7 @@
 title: Home
 description: 
 tags: 
-draft: "true"
+draft:
 date: 2024-03-27
 ---
 
