@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Home
+description: 
+tags: 
+draft: "false"
+date: 2024-03-27
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> Mutton yesterday, mutton today, and blimey if it don't look like mutton again tomorrer! — Tom Troll
