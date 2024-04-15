@@ -1,6 +1,6 @@
 ---
 title: Christians die for the sins of the world
-description: Christ is the typological blueprint for creation, the *Logos*. By extension, the identities of everything in the world are typological refractions of Christ's identity. However, man is uniquely endowed…
+description: The following excerpt from Colossians 1 illuminates the way in which Christ saves the world through His body.…
 tags:
   - theology
 date: 2024-04-14
@@ -31,9 +31,9 @@ By becoming the firstborn from the dead, Christ restored man's nature. His death
 
 Man was created to be the mediator between God and the world.[^2] When man sinned and separated himself from God, the rest of creation was involuntarily pulled into death with man. It therefore follows that creation would be restored through the restoration of man.
 
-Christ's death restored man. Man's death (the living sacrifices of the saints) restores the world. The story of St. Telemachus exemplifies this principle.
+Christ's death restored man. Man's death (the living sacrifices of the saints) restores the world. The story of St. Telemachus exemplifies this principle. His martyrdom catalyzed an entire civilization's deliverance from the bloodlust of the gladiatorial games.
 
-> The successors to the empire inherited the piety of their father. Honorius, who had received the empire of Europe, abolished the ancient exhibitions of gladiators in Rome on the following occasion. A certain man named Telemachus, who had embraced a monastical life, came from the East to Rome at a time when these cruel spectacles were being exhibited. After gazing upon the combat from the amphitheatre, he descended into the arena, and tried to separate the gladiators. The sanguinary spectators, possessed by the demon who delights in the effusion of blood, were irritated at the interruption of their cruel sports, and stoned him who had occasioned the cessation. On being apprised of this circumstance, the admirable emperor numbered him with the victorious martyrs, and abolished these iniquitous spectacles.
+> A certain man named Telemachus, who had embraced a monastical life, came from the East to Rome at a time when these cruel spectacles were being exhibited. After gazing upon the combat from the amphitheatre, he descended into the arena, and tried to separate the gladiators. The sanguinary spectators, possessed by the demon who delights in the effusion of blood, were irritated at the interruption of their cruel sports, and stoned him who had occasioned the cessation. On being apprised of this circumstance, the admirable emperor numbered him with the victorious martyrs, and abolished these iniquitous spectacles.
 > 
 > *[Ecclesiastical History]( https://www.google.com/books/edition/Ecclesiastical_History/q_54qEMqFVsC?hl=en&gbpv=0)* by Theodoretus (Bishop of Cyrus)
 
